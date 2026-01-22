@@ -8,8 +8,8 @@ Project ini dibuat sebagai latihan frontend,
 fokus ke layout, form styling, dan basic CSS.
 
 ## Pages
-- Register Page
 - Login Page
+- Register Page
 
 ## Tech Stack
 - HTML
