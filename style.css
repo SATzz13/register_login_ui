@@ -1,0 +1,89 @@
+body {
+    font-family: sans-serif;
+    background: lightsteelblue;
+}
+
+h1 {
+    text-align: center;
+    font-weight: 300;
+    padding: 1px;
+}
+
+.title {
+    font-size: 17px;
+}
+
+.wrapper {
+    width: 350px;
+    background: dodgerblue;
+    margin: 80px auto;
+    padding: 5px 50px;
+    border-radius: 15px;
+    color: white;
+}
+
+label {
+    font-size: 20px;
+}
+
+.register_login {
+    box-sizing: border-box;
+    width: 100%;
+    padding: 10px;
+    font-size: 15px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+} 
+
+.forgot {
+    display: block;
+    text-align: right;
+    color: black;
+    text-decoration: none;
+    font-size: 13px;
+    margin-bottom: 10px;
+}
+
+.button_regis_login {
+    background: black;
+    color: white;
+    font-size: 15px;
+    width: 100%;
+    border: none;
+    border-radius: 15px;
+    padding: 10px 20px;
+}
+
+.login_regis_text {
+    font-size: 15px;
+    text-align: center;
+}
+
+.link {
+    color: black;
+    text-decoration: none;
+}
+
+.sosial_media{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.sosial_media .item {
+    width: 35px;
+    height: 35px;
+    border: 2px solid black;
+    margin: 0 5px;
+    text-align: center;
+    line-height: 35px;
+    border-radius: 50%;
+    cursor: pointer;
+    color: black;
+    transition: all 0.5 ease;
+}
+
+.sosial_media .item:hover {
+    border-color: white;
+    color: white;
+}
